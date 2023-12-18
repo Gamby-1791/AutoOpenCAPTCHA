@@ -22,3 +22,4 @@ Icon by [Freepilk](https://www.flaticon.com/authors/freepik) on [Flaticon](https
 ## Install This Script
 
 - [Download from GitHub](https://github.com/Gamby-1791/AutoOpenCAPTCHA/raw/main/autoOpenCAPTCHA.user.js)
+- [Download from GreasyFork](https://greasyfork.org/en/scripts/482518-auto-open-captcha)
